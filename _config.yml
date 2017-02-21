@@ -1,3 +1,12 @@
+# Basic info
+title: 杨  瑾
+subtitle: 个人博客
+description: On the Road.
+
+#Social info
+github: Jin-Ya
+mail: Mars3.14@foxmail.com
+
 # Where things are
 source:       .
 destination:  ./_site
